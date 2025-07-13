@@ -1,4 +1,4 @@
-# 🤖 ChatBot - React Frontend
+# 🤖 Incidence Response Chatbot for Cyber Security 
 
 A modern React-based chat interface for interacting with AI models through Ollama, specifically designed for cybersecurity analysts.
 
